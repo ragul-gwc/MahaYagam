@@ -33,16 +33,16 @@ const HeroSection = ({ onRegisterClick, onPreBookClick }: HeroSectionProps) => {
           Maha Yagam 2026
         </h1>
         
-        <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-foreground mb-6">
-          Divine Shivaratri Experience
+        <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-foreground mb-1">
+          The world’s longest non stop pooja
         </h2>
+        <h3 className="mb-6 text-gold text-lg">25 Purohits • 25 Purohits • 1 Million Chant of Lord Shiva’s Name • 1,00,000 Rudraksh</h3>
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mb-8 leading-relaxed">
-          Experience the divine energy that will transform your life forever. 
-          Join us for an unprecedented spiritual journey with{" "}
-          <span className="text-gold font-semibold">100,000 Rudraksha chants</span> by{" "}
-          <span className="text-gold font-semibold">26 Pandithars</span> in a continuous{" "}
-          <span className="text-gold font-semibold">36-hour</span> sacred ceremony.
+          On Maha Shivarathri, Oh My God – (OMG) presents Maha Yaagam a{" "}
+          <span className="text-gold font-semibold">34 hour</span> non stop pooja where{" "}
+          <span className="text-gold font-semibold">25 purohits</span> chant Rudhram 3400 times, echoing Lord Shiva’s name 1 million times while {" "}
+          <span className="text-gold font-semibold">100,000</span> sacred Rudraksh beads are prayed upon. Register free to join this epic celebration of devotion and unity.
         </p>
 
         {/* Event Details */}

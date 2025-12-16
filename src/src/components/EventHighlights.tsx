@@ -13,12 +13,12 @@ const highlights = [
   },
   {
     icon: Users,
-    title: "26 Pandithars",
+    title: "25 Pandithars",
     description: "Top spiritual masters conducting the sacred ceremony",
   },
   {
     icon: Clock,
-    title: "36 Hours",
+    title: "34 Hours",
     description: "Continuous chanting infusing divine energy",
   },
 ];

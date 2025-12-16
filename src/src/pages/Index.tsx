@@ -11,6 +11,7 @@ import CelebritySection from "@/components/CelebritySection";
 import AttractionsSection from "@/components/AttractionsSection";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const Index = () => {
   const [isRegistrationOpen, setIsRegistrationOpen] = useState(false);
@@ -66,7 +67,7 @@ const Index = () => {
       <EventHighlights />
 
       {/* Celebrity Section */}
-      <CelebritySection />
+      {/* <CelebritySection /> */}
 
       {/* Attractions */}
       <AttractionsSection />
@@ -117,6 +118,7 @@ const Index = () => {
         isOpen={isBookingOpen}
         onClose={() => setIsBookingOpen(false)}
       />
+      <ScrollToTop />
     </div>
   );
 };

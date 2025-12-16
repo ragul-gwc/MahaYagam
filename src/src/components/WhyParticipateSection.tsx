@@ -3,34 +3,34 @@ import { Heart, Shield, Sparkles, Users, Star, Zap } from "lucide-react";
 const reasons = [
   {
     icon: Sparkles,
-    title: "Divine Transformation",
-    description: "Experience a profound spiritual awakening that will transform your consciousness and connect you to the divine energy of Lord Shiva.",
+    title: "Pooja of All Poojas",
+    description: "A once in a lifetime opportunity to witness the longest non stop pooja ever performed.",
   },
   {
     icon: Shield,
-    title: "Sacred Protection",
-    description: "Receive the protective blessings of 100,000 mantras chanted by 26 Pandithars, creating a powerful shield of divine grace around you.",
+    title: "Divine Vibrations",
+    description: "Experience the transformative power of 1 million chants of lord Shivas name by 25 devoted purohits, turning negativity into positivity.",
   },
   {
     icon: Heart,
-    title: "Inner Peace",
-    description: "Find lasting peace and harmony as the sacred vibrations cleanse your mind, body, and soul from negativity and stress.",
+    title: "The Sacred Seed",
+    description: "100,000 Rudraksha beads elevated through mantric purification, each infused with Lord Shiva’s name a million times.",
   },
   {
     icon: Users,
-    title: "Collective Energy",
-    description: "Be part of a massive gathering of devotees, amplifying the spiritual energy and creating a once-in-a-lifetime experience.",
-  },
-  {
-    icon: Star,
     title: "Historic Moment",
-    description: "Witness and be part of a Guinness World Record attempt - a historic event that will be remembered for generations.",
+    description: "Join a massive spiritual gathering and be part of a Guinness World Record attempt.",
   },
-  {
-    icon: Zap,
-    title: "Life-Changing Blessings",
-    description: "Carry home the divine energy through blessed Rudraksha beads, infused with 100,000 powerful mantras for eternal prosperity.",
-  },
+  // {
+  //   icon: Star,
+  //   title: "Historic Moment",
+  //   description: "Witness and be part of a Guinness World Record attempt - a historic event that will be remembered for generations.",
+  // },
+  // {
+  //   icon: Zap,
+  //   title: "Life-Changing Blessings",
+  //   description: "Carry home the divine energy through blessed Rudraksha beads, infused with 100,000 powerful mantras for eternal prosperity.",
+  // },
 ];
 
 const WhyParticipateSection = () => {
@@ -49,9 +49,14 @@ const WhyParticipateSection = () => {
           </h2>
           <div className="max-w-3xl mx-auto space-y-4 text-muted-foreground text-lg leading-relaxed">
             <p>
-              In this age of turmoil and uncertainty, humanity seeks divine intervention and spiritual upliftment. 
-              <span className="text-gold font-medium"> Maha Yagam 2026</span> is our humble offering to Lord Shiva — 
-              a sacred ceremony designed to channel cosmic energy for the welfare of all beings.
+              In an age of turmoil and uncertainty, humanity turns to the divine for strength and upliftment.
+              <span className="text-gold font-medium"> Maha Yagam 2026</span> is our humble offering to Lord Shiva — the longest non stop pooja ever performed on Earth
+            </p>
+             <p>
+              On the auspicious night of Maha Shivarathri,
+              <span className="text-gold font-medium"> Oh My God (OMG)</span> launches its first grand spiritual event. For
+              <span className="text-gold font-medium"> 34 continuous hours, 25 devoted purohits</span> will chant the sacred Rudhram 
+              <span className="text-gold font-medium">1 million times, sanctifying 100,000 Rudraksha beads</span> with mantric energy.
             </p>
             <p>
               We believe that when <span className="text-gold font-medium">100,000 sacred mantras</span> are chanted 

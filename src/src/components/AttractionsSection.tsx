@@ -3,34 +3,34 @@ import { Gift, Music, Utensils, Camera, Heart, Sparkles } from "lucide-react";
 const attractions = [
   {
     icon: Music,
-    title: "Divine Music",
-    description: "Soul-stirring bhajans and classical performances",
-  },
-  {
-    icon: Utensils,
-    title: "Prasadam",
-    description: "Sacred food blessed during the ceremony",
-  },
-  {
-    icon: Camera,
-    title: "Photo Moments",
-    description: "Capture your divine experience with professionals",
+    title: "o	Divine Vibration",
+    description: "A Spiritual Saga unfolds",
   },
   {
     icon: Gift,
-    title: "Spiritual Gifts",
-    description: "Receive blessed items and sacred souvenirs",
-  },
-  {
-    icon: Heart,
-    title: "Healing Sessions",
-    description: "Experience spiritual healing and meditation",
+    title: "Pre Booking Rudraksh",
+    description: "Get a special opportunity to own the special rudraksh post Mahashivarathri",
   },
   {
     icon: Sparkles,
-    title: "Surprise Reveals",
-    description: "Special surprises await during the event",
+    title: "OMG gets launched",
+    description: "The World’s 1st AI powered spiritual experience brand gets a mega launch pad",
   },
+  // {
+  //   icon: Gift,
+  //   title: "Spiritual Gifts",
+  //   description: "Receive blessed items and sacred souvenirs",
+  // },
+  // {
+  //   icon: Heart,
+  //   title: "Healing Sessions",
+  //   description: "Experience spiritual healing and meditation",
+  // },
+  // {
+  //   icon: Sparkles,
+  //   title: "Surprise Reveals",
+  //   description: "Special surprises await during the event",
+  // },
 ];
 
 const AttractionsSection = () => {

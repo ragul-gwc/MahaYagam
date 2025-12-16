@@ -14,13 +14,13 @@ const RudrakshaShowcase = ({ onPreBookClick }: RudrakshaShowcaseProps) => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-12">
           <span className="inline-block px-4 py-1.5 rounded-full bg-gold/10 border border-gold/20 text-gold text-xs uppercase tracking-widest mb-4">
-            Sacred Offering
+            The Special Sacred Seed
           </span>
           <h2 className="font-display text-2xl md:text-4xl font-bold text-foreground mb-4">
-            Blessed <span className="gold-text-gradient">Rudraksha</span>
+            A special pooja on the Rudraksh with <span className="gold-text-gradient">1 million chants of Lord Shiva</span>
           </h2>
-          <p className="text-muted-foreground max-w-2xl mx-auto">
-            Each Rudraksha will be energized with 100,000 powerful mantras by 26 revered Pandithars
+          <p className="text-muted-foreground max-w-3xl mx-auto">
+            On Maha Shivarathri, 25 purohits will chant Lord Shiva’s name 1 million times over 34 non stop hours, sanctifying each Rudraksh through powerful mantric purification by chanting the Rudhram 3300 times. This rare spiritual offering makes every Rudhraksh bead a symbol of divine energy and devotion. Pre book your Special Sacred Rudraksh NOW and own this very special divine blessing that has been prayed upon with lord shiva’s name for 1 million times!
           </p>
         </div>
 
@@ -52,7 +52,7 @@ const RudrakshaShowcase = ({ onPreBookClick }: RudrakshaShowcaseProps) => {
                 <div className="text-center pb-6 border-b border-gold/20">
                   <p className="text-muted-foreground text-sm mb-2">Pre-booking Price</p>
                   <div className="flex items-baseline justify-center gap-2">
-                    <span className="font-display text-5xl md:text-6xl font-bold gold-text-gradient">₹1,100</span>
+                    <span className="font-display text-5xl md:text-6xl font-bold gold-text-gradient">₹999</span>
                     <span className="text-muted-foreground">/each</span>
                   </div>
                   <p className="text-gold text-sm mt-2">Token advance: ₹251 only</p>
@@ -65,8 +65,8 @@ const RudrakshaShowcase = ({ onPreBookClick }: RudrakshaShowcaseProps) => {
                       <Sparkles className="w-5 h-5 text-gold" />
                     </div>
                     <div>
-                      <h4 className="text-foreground font-semibold">36-Hour Continuous Chanting</h4>
-                      <p className="text-muted-foreground text-sm">Non-stop sacred mantras by 26 Pandithars</p>
+                      <h4 className="text-foreground font-semibold">34-Hour Continuous Chanting</h4>
+                      <p className="text-muted-foreground text-sm">Non-stop sacred mantras by 25 Pandithars</p>
                     </div>
                   </div>
 
